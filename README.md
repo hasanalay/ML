@@ -5,3 +5,4 @@
 
 - [Facebook Prophet kütüphanesini kullanarak zaman serisi analizi](https://github.com/hasanalay/ML/blob/main/zaman_serisi_pratik.ipynb)
 - [Gradient descent](https://github.com/hasanalay/ML/blob/main/gradient_descend.py)
+- [Keras ile digit recognition](https://github.com/hasanalay/ML/blob/main/DigitKeras.ipynb)
